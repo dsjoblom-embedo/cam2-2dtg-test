@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TwoDtgDecodeLib2-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Application/build/intermediates/exploded-aar/TwoDtgDecodeLib2-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/Application/build/intermediates/exploded-aar/TwoDtgDecodeLib2-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

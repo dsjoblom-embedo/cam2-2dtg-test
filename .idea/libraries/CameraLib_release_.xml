@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CameraLib-release-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Application/build/intermediates/exploded-aar/CameraLib-release/res" />
+      <root url="jar://$PROJECT_DIR$/Application/build/intermediates/exploded-aar/CameraLib-release/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Application/build/intermediates/exploded-aar/CameraLib-release/jars/libs/honeywell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Application/build/intermediates/exploded-aar/CameraLib-release/jars/libs/device.scanner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

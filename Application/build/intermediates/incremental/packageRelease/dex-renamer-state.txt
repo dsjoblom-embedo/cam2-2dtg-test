@@ -1,0 +1,4 @@
+#Thu Apr 27 15:03:43 EEST 2017
+base.0=D\:\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

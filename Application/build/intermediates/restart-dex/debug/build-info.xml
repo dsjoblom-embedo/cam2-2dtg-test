@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="153669036066885"
+    token="4047457589893434818"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\android-Camera2Basic-master\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="623809461320124"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d948077253e614fbd2254808abb008a090b17d92\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f0e9acb011c702c6ec27196f2016ddfcac8da2a5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_ccca0e5e5fb658792fd5f84dd892f5b3ab16851f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_27b86726cdf4e41f959cfd4d7a786db7eefe16e0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_2e18c94a0f4cab815d5190f4ded14041338c81ed\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_979a877e9ca6c6bf409ea1c9f6da2bbc1a792220\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_67ab42958113e7bc42a1289ea7856d4722d75510\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_844618085467808f3d07abd23b47e56d41f3884f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_20997e83e7d770938426efdf3013c3dab2c9287d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3a50451a5b68187b6be24783e027760cadd57faa\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_2d0e42343a78a62963fdadb153d1f01a4878ecc0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_6253b923e5a3949bb0cea4b459246dae71add296\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_b08105e76b215d5a590a5de1dc1681a4cbb434ec\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08567120af05c1f610c7e35de13963dc1adb2ffc\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-CameraLib-release_538f58880fca57b9874464b8a9f1a4af799a21af\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\honeywell_4a651ccca3f902e295acfe6460bb0b126da01b1c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_aca33e0ca73bc5089093b96e524a683a58c15839\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_54a8837246366cc0fa92dfc815ba8f4be7199867\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_133a3ad39edc22affaa7a7ff9ab5865b2912cf16\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_21fbd54b568ca857e58342afefef03e6f3410c18\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_c7dc71546252045023164bc7fd4ef2ff77da15ea\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\device.scanner_5eda00983452d10a95f377c01a72aecf98dc2633\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-TwoDtgDecodeLib2-release_db9fabbaa09eabf3a9c6aa9caae3eb51faa0fe65\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_55f94ecb9d8d1960776ff769e19631629a570893\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
